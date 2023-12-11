@@ -1,0 +1,28 @@
+
+//how to write rucursion
+1. epxress every turns in term of index ;
+2. explore all stuffs;
+3. take total min max according to question
+
+//
+memoiation is implementing the recursion with dp 
+it is top down approach 
+
+// 
+tabulation 
+it is bottom up approach :
+
+// 
+space optimisation :
+if we need a previous row and previous column the we can definitly do the space optimisation;
+
+
+//how to calculate the number of ways : 
+
+func()
+    base case: 
+
+    l=func1
+    r=func2// may or may not
+    total l+r;
+    return total
